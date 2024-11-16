@@ -1,0 +1,426 @@
+!SESSION 2024-11-16 11:03:40.678 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-16 11:05:55.543
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-16 11:10:57.239
+!MESSAGE Logback config file: C:\Springboot-practice\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-16 11:11:01.331
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-16 11:11:01.332
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-16 11:11:03.050
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-16 11:11:03.050
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-16 11:11:30.071
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-16 11:22:03.742
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-16 11:22:03.743
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Textile" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.743
+!MESSAGE "Spring Boot Language Server Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Ant Tasks" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Markdown" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.743
+!MESSAGE "Spring IDE Boot Microservices Dash" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText MediaWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Markdown UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.743
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText MediaWiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Help UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText HTML" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.743
+!MESSAGE "Editor Support Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.743
+!MESSAGE "Mylyn WikiText Confluence" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Mylyn WikiText" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Spring XML Namespace Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Eclipse Integration Commands - Livexp" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "JDT Integration for LSP4E" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Spring Tool Suite 4 Main Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Eclipse Language Server Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Debug Adapter client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Mylyn WikiText OSGi Plug-in" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Mylyn WikiText Twiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Spring Tool Suite 4 Branding Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Client-side JDT extension for language servers" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.744
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "SpringSource Tool Suite (Core)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "STS Gradle Model" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.744
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Mylyn WikiText AsciiDoc" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "SpringSource Tool Suite Framework Support Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Mylyn WikiText Twiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "SpringSource Tool Suite Framework Support (UI)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Mylyn WikiText AsciiDoc UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "JustJ Adoptium OpenJDK Hotspot JRE Complete" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "SpringSource Tool Suite (JDK Tools)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "JDT Integration for LSP4E" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Mylyn WikiText Confluence UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Buildship: Eclipse Plug-ins for Gradle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.745
+!MESSAGE "Goto Symbol Popup" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.745
+!MESSAGE "Mylyn WikiText Textile UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-16 11:22:03.745
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:03.745
+!MESSAGE Software being installed: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:03.745
+!MESSAGE Missing requirement: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435) requires 'osgi.bundle; org.commonmark 0.23.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-16 11:22:03.843
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-16 11:22:03.843
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText Textile" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.843
+!MESSAGE "Spring Boot Language Server Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText Ant Tasks" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText Markdown" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.843
+!MESSAGE "Spring IDE Boot Microservices Dash" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText MediaWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.843
+!MESSAGE "Mylyn WikiText Markdown UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText MediaWiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText Help UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText HTML" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Editor Support Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText Confluence" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Spring XML Namespace Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Eclipse Integration Commands - Livexp" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "JDT Integration for LSP4E" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Spring Tool Suite 4 Main Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Eclipse Language Server Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Debug Adapter client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText OSGi Plug-in" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText Twiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Spring Tool Suite 4 Branding Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Client-side JDT extension for language servers" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "SpringSource Tool Suite (Core)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "STS Gradle Model" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText AsciiDoc" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "SpringSource Tool Suite Framework Support Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText Twiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "SpringSource Tool Suite Framework Support (UI)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.844
+!MESSAGE "Mylyn WikiText AsciiDoc UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.844
+!MESSAGE "JustJ Adoptium OpenJDK Hotspot JRE Complete" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.845
+!MESSAGE "SpringSource Tool Suite (JDK Tools)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.845
+!MESSAGE "JDT Integration for LSP4E" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.845
+!MESSAGE "Mylyn WikiText Confluence UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.845
+!MESSAGE "Buildship: Eclipse Plug-ins for Gradle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:03.845
+!MESSAGE "Goto Symbol Popup" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:03.845
+!MESSAGE "Mylyn WikiText Textile UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-16 11:22:03.845
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:03.845
+!MESSAGE Software being installed: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:03.845
+!MESSAGE Missing requirement: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435) requires 'osgi.bundle; org.commonmark 0.23.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-16 11:22:04.648
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-16 11:22:04.648
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Textile" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Spring Boot Language Server Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Ant Tasks" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Markdown" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Spring IDE Boot Microservices Dash" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText MediaWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Markdown UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText MediaWiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Help UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText HTML" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Editor Support Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText Confluence" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.648
+!MESSAGE "Mylyn WikiText" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.648
+!MESSAGE "Spring XML Namespace Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Eclipse Integration Commands - Livexp" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "JDT Integration for LSP4E" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Spring Tool Suite 4 Main Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Eclipse Language Server Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Debug Adapter client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText OSGi Plug-in" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText Twiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Spring Tool Suite 4 Branding Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Client-side JDT extension for language servers" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "SpringSource Tool Suite (Core)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "STS Gradle Model" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText AsciiDoc" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "SpringSource Tool Suite Framework Support Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText Twiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "SpringSource Tool Suite Framework Support (UI)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText AsciiDoc UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "JustJ Adoptium OpenJDK Hotspot JRE Complete" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "SpringSource Tool Suite (JDK Tools)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "JDT Integration for LSP4E" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText Confluence UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Buildship: Eclipse Plug-ins for Gradle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.649
+!MESSAGE "Goto Symbol Popup" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.649
+!MESSAGE "Mylyn WikiText Textile UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-16 11:22:04.649
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:04.649
+!MESSAGE Software being installed: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:04.649
+!MESSAGE Missing requirement: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435) requires 'osgi.bundle; org.commonmark 0.23.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-16 11:22:04.652
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-16 11:22:04.652
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Textile" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Spring Boot Language Server Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Ant Tasks" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Markdown" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Spring IDE Boot Microservices Dash" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText MediaWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Markdown UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText MediaWiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Help UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText HTML" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Editor Support Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText Confluence" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Spring Tool Suite Common UI Components" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "Mylyn WikiText" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Spring XML Namespace Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.652
+!MESSAGE "Eclipse Integration Commands - Livexp" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.652
+!MESSAGE "JDT Integration for LSP4E" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "Spring Tool Suite 4 Main Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "Eclipse Language Server Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Debug Adapter client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Mylyn WikiText OSGi Plug-in" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Mylyn WikiText Twiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "Spring Tool Suite 4 Branding Feature" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "Client-side JDT extension for language servers" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.653
+!MESSAGE "Mylyn WikiText TracWiki" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "SpringSource Tool Suite (Core)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "STS Gradle Model" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.653
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.654
+!MESSAGE "Mylyn WikiText AsciiDoc" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "SpringSource Tool Suite Framework Support Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.654
+!MESSAGE "Mylyn WikiText Twiki UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "SpringSource Tool Suite Framework Support (UI)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.654
+!MESSAGE "Mylyn WikiText AsciiDoc UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "JustJ Adoptium OpenJDK Hotspot JRE Complete" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "SpringSource Tool Suite (JDK Tools)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "JDT Integration for LSP4E" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.654
+!MESSAGE "Mylyn WikiText Confluence UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.654
+!MESSAGE "Buildship: Eclipse Plug-ins for Gradle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2024-11-16 11:22:04.654
+!MESSAGE "Goto Symbol Popup" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-16 11:22:04.655
+!MESSAGE "Mylyn WikiText Textile UI" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-16 11:22:04.655
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:04.655
+!MESSAGE Software being installed: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-16 11:22:04.655
+!MESSAGE Missing requirement: Language Server Protocol client for Eclipse IDE (Incubation) 0.18.14.202410030435 (org.eclipse.lsp4e 0.18.14.202410030435) requires 'osgi.bundle; org.commonmark 0.23.0' but it could not be found
