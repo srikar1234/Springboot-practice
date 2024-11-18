@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:util="http://www.springframework.org/schema/util" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd"> <!-- bean definitions here -->
+
+	<!-- <bean id="alien1" class = "com.srikar.Spring1.Alien" scope="prototype"></bean> -->
+
+	<bean id="alien1" class = "com.srikar.Spring1.Alien" >
+		<property name = "age" value = "21"></property>
+		
+        <!-- Refer to the bean with id as laptop using ref -->
+		<property name = "lap" ref = "laptop"></property>
+	</bean>
+	
+	<!-- Order in which constr args are passed matters depending on how the function is defined-->
+	<bean id="alien2" class = "com.srikar.Spring1.Alien">
+		<constructor-arg value = "32"/>
+		<constructor-arg ref ="laptop" />
+	</bean>
+		
+	<bean id="laptop" class = "com.srikar.Spring1.Laptop"></bean>
+
+</beans>
