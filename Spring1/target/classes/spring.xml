@@ -12,7 +12,7 @@
 	<!--Autowiring works when we dont mention the ref explictly-->
 	<bean id="alien1" class = "com.srikar.Spring1.Alien" autowire="byType">
 		<property name = "age" value = "21"></property>
-		<property name = "comp" ref ="comp2"/>
+		<!--<property name = "comp" ref ="comp2"/>-->
         <!-- Refer to the bean with id as laptop using ref -->
 		<!--<property name = "comp" ref = "desktop"></property>-->
 		<!-- Inner Bean format -->
