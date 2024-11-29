@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Springboot-practice\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\CMS_CamundaServices\\.git;C\:\\Springboot-practice\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\CMS_CamundaServices\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

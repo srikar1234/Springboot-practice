@@ -10,17 +10,18 @@
 	<!-- <bean id="alien1" class = "com.srikar.Spring1.Alien" scope="prototype"></bean> -->
 
 	<!--Autowiring works when we dont mention the ref explictly-->
-	<bean id="alien1" class = "com.srikar.Spring1.Alien" autowire="byType">
+<!--
+		<bean id="alien1" class = "com.srikar.Spring1.Alien" autowire="byType">
 		<property name = "age" value = "21"></property>
-		<!--<property name = "comp" ref ="comp2"/>-->
-        <!-- Refer to the bean with id as laptop using ref -->
-		<!--<property name = "comp" ref = "desktop"></property>-->
-		<!-- Inner Bean format -->
+		<property name = "comp" ref ="comp2"/>
+         Refer to the bean with id as laptop using ref 
+		<property name = "comp" ref = "desktop"></property>
+		 Inner Bean format 
 		<property name = "comp">
 				<bean id="comp1" class = "com.srikar.Spring1.Laptop"></bean>
 		</property>
 	</bean>
-	
+-->	
 	<!-- Order in which constructor args are passed matters depending on how the function is defined or use type to define the type of variable/object, or use index and lastly we can use name. Index number is the ideal way. Index is 0 based indexing-->
 	
 	<!--

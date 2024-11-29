@@ -2,9 +2,15 @@ package com.srikar.Spring1;
 
 import javax.management.ConstructorParameters;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Alien {
 	
 	private int age;
+	
+	@Autowired
 	private Computer comp;
 	
 	/*
